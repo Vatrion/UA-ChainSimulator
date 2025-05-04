@@ -87,3 +87,10 @@ logging.basicConfig(level=logging.DEBUG)
 - No external configuration files are required; all payloads and redirect logic are defined inline in the `.py` files.
 - Always run scripts from the project root so relative file paths (e.g., `malware.exe`, `file.jsp`, `malicious.php`) resolve correctly.
 - To customize payload URIs, headers, or behavior, edit the `PAYLOAD_CONFIG` and `ENDPOINT_CONFIG` dictionaries in each server script.
+
+## License
+
+UA-ChainSimulator is released under a proprietary license.  
+All rights reserved. You may not use, modify, distribute, or incorporate this software into any commercial product, tool, or service without prior written consent from .  
+
+See [LICENSE](./LICENSE) for full terms.
