@@ -93,4 +93,4 @@ logging.basicConfig(level=logging.DEBUG)
 UA-ChainSimulator is released under a proprietary license.  
 All rights reserved. You may not use, modify, distribute, or incorporate this software into any commercial product, tool, or service without prior written consent from .  
 
-See [LICENSE](./LICENSE.md) for full terms.
+See [LICENSE](./License.md) for full terms.
